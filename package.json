@@ -1,0 +1,23 @@
+{
+  "name": "homepage",
+  "version": "1.0.0",
+  "description": "ホームページ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0918nobita/Homepage.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0918nobita/Homepage/issues"
+  },
+  "homepage": "https://github.com/0918nobita/Homepage#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "npm": "^5.8.0"
+  }
+}
