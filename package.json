@@ -16,7 +16,9 @@
     "url": "https://github.com/0918nobita/Homepage/issues"
   },
   "homepage": "https://github.com/0918nobita/Homepage#readme",
-  "devDependencies": {},
+  "devDependencies": {
+    "yarn": "^1.7.0"
+  },
   "dependencies": {
     "npm": "^5.8.0"
   }
