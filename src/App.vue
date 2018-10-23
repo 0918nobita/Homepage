@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <p>0918nobita のホームページへようこそ！</p>
     <Index></Index>
   </div>
 </template>
