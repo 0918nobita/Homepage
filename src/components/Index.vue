@@ -1,12 +1,17 @@
 <template>
   <div>
-    <p>Hello.</p>
+    <p>{{a}}</p>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'Index'
+  name: 'Index',
+  data () {
+    return {
+      a: 'hello'
+    }
+  }
 }
 </script>
 
