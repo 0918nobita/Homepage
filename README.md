@@ -1,4 +1,6 @@
 # homepage
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2F0918nobita%2FHomepage.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2F0918nobita%2FHomepage?ref=badge_shield)
+
 
 > A Vue.js project
 
@@ -25,3 +27,7 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2F0918nobita%2FHomepage.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2F0918nobita%2FHomepage?ref=badge_large)
