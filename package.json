@@ -11,6 +11,7 @@
   },
   "devDependencies": {
     "tslint": "^5.18.0",
-    "tslint-react": "^4.0.0"
+    "tslint-react": "^4.0.0",
+    "typescript": "^3.5.3"
   }
 }
