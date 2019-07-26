@@ -4,10 +4,10 @@
   "description": "",
   "author": "0918nobita <nobita.0918@gmail.com>",
   "private": true,
-  "scripts": {
-  },
+  "scripts": {},
   "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
